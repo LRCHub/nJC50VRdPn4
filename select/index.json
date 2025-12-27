@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "No No No",
+  "base_artist": "TheFatRat",
+  "createdAt": "2025-12-27T02:07:58.556073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Punch Up At A Wedding. (No No No No No No No No.)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_A_Punch_Up_At_A_Wedding._(No_No_No_No_No_No_No_No.)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No No No",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/02_No_No_No_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No No No",
+      "artist": "Young Thug feat. Birdman",
+      "has_synced": true,
+      "path": "select/03_No_No_No_Young_Thug_feat._Birdman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No No No (Feat. Birdman)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_No_No_No_(Feat._Birdman)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sexy! No No No...",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/05_Sexy!_No_No_No..._Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sexy! No No No (Instrumental)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/06_Sexy!_No_No_No_(Instrumental)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sexy! No No No... - Tony Lamezma's \"Yes Yes Yes\" Mix",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/07_Sexy!_No_No_No..._-_Tony_Lamezma's__Yes_Yes_Yes__Mix_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sexy! No No No... (Tony Lamezma's 'Yes Yes Yes' Mix)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/08_Sexy!_No_No_No..._(Tony_Lamezma's_'Yes_Yes_Yes'_Mix)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No, No, No",
+      "artist": "Eve feat. Stephen Marley & Damian Marley",
+      "has_synced": true,
+      "path": "select/09_No,_No,_No_Eve_feat._Stephen_Marley_&_Damian_Marley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No, No, No (feat. Damian & Stephen Marley)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/10_No,_No,_No_(feat._Damian_&_Stephen_Marley)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No, No, No, No, No (La Poupée qui fait non)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/11_No,_No,_No,_No,_No_(La_Poupée_qui_fait_non)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No No No Llores No",
+      "artist": "Paradisio",
+      "has_synced": false,
+      "path": "select/12_No_No_No_Llores_No_Paradisio.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No No No",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/13_No_No_No_Def_Leppard.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No No No",
+      "artist": "Gucci Mane",
+      "has_synced": false,
+      "path": "select/14_No_No_No_Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Don't Love Me (No, No, No)",
+      "artist": "Rihanna feat. Vybz Kartel",
+      "has_synced": true,
+      "path": "select/15_You_Don't_Love_Me_(No,_No,_No)_Rihanna_feat._Vybz_Kartel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Don't Love Me (No, No, No)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/16_You_Don't_Love_Me_(No,_No,_No)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "\"No. No. No.\"",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/17_No._No._No._Frank_Zappa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No No No",
+      "artist": "TheFatRat",
+      "has_synced": false,
+      "path": "select/pl_01_No_No_No_TheFatRat.txt"
+    }
+  ]
+}
