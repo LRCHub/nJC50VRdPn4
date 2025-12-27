@@ -1,0 +1,50 @@
+# TheFatRat – No No No
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Every time you two are getting
+rough
+My mind just sounds like Shia
+LaBeouf
+It says no, no, no, no, no
+No, no, no, no, no
+Just no, no, no, no, no.
+And every time I see him with
+you
+My heart sounds like Shia
+LaBeouf
+To no, no, no, no, no
+No, no, no, no, no
+No, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+Every time you two are getting
+rough
+My mind just sounds like Shia
+LaBeouf
+It says no, no, no, no, no
+No, no, no, no, no
+Just no, no, no, no, no
+And every time I see him with
+you
+My heart sounds like Shia
+LaBeouf
+To no, no, no, no, no
+No, no, no, no, no
+No, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+No, no, no, no, no
+```
